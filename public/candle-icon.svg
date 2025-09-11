@@ -1,0 +1,16 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Candle base -->
+  <rect x="12" y="8" width="8" height="16" rx="2" fill="#8B4513" stroke="#654321" stroke-width="1"/>
+  
+  <!-- Wax drips -->
+  <path d="M14 8 L16 6 L18 8" fill="#F5F5DC" stroke="#E6E6FA" stroke-width="0.5"/>
+  <path d="M15 10 L17 8 L19 10" fill="#F5F5DC" stroke="#E6E6FA" stroke-width="0.5"/>
+  
+  <!-- Flame -->
+  <ellipse cx="16" cy="6" rx="2" ry="4" fill="#FFD700"/>
+  <ellipse cx="16" cy="5" rx="1.5" ry="3" fill="#FFA500"/>
+  <ellipse cx="16" cy="4" rx="1" ry="2" fill="#FF4500"/>
+  
+  <!-- Wick -->
+  <line x1="16" y1="4" x2="16" y2="2" stroke="#2F2F2F" stroke-width="0.5"/>
+</svg>

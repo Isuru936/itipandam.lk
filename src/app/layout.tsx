@@ -17,6 +17,11 @@ export const metadata: Metadata = {
   title: "ITIPANDAM - Scented Candles Coming Soon",
   description: "ITIPANDAM scented candles - bringing warmth to your home. Coming soon.",
   generator: "v0.app",
+  icons: {
+    icon: "/favicon.svg",
+    shortcut: "/favicon.svg",
+    apple: "/favicon.svg",
+  },
 }
 
 export default function RootLayout({
