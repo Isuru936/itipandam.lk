@@ -28,7 +28,7 @@ export default function ComingSoonPage() {
           {/* Main Message */}
           <div className="mb-12 space-y-6">
             <h1 className="font-[family-name:var(--font-playfair)] text-4xl md:text-5xl font-bold text-foreground text-balance">
-              {"Coming Soon"}
+              {"Preview"}
             </h1>
             <h2 className="font-[family-name:var(--font-playfair)] text-2xl md:text-3xl font-semibold text-primary text-balance">
               {"We're getting this fired up!"}
